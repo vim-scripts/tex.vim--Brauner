@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4626
+
+A tex.vim syntax file for Vim with a mapping of all commands defined by the unicode-math package to the symbols they stand for to be used in editing LaTeX source code.
+
+Some further details you can find here (about the syntax-file): 
+http://chbrauner.blogspot.de/2013/06/vims-conceal-feature-and-syntax-file.html
+and here (about the conceal-feature and latex):
+http://b4winckler.wordpress.com/2010/08/07/using-the-conceal-vim-feature-with-latex/
